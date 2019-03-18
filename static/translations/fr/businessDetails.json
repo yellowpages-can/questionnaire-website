@@ -1,0 +1,51 @@
+{
+  "handle": "businessDetails",
+  "headings": {
+    "main": "Données sur l’entreprise",
+    "sub": "Profile de l’annonceur",
+    "mainIntro": "Félicitations pour votre nouveau site Web! La première étape est pour nous d’en apprendre un peu plus sur votre entreprise et vos objectifs. Cette information permettra à notre équipe Web d’élaborer un plan d’action avant notre prochaine conversation téléphonique. Vos réponses nous aideront à optimiser votre présence en ligne.",
+    "businessInfo": "Information sur l’entreprise",
+    "businessInfoIntro": "Commençons par les infos de base de votre entreprise.",
+    "hours": "Heures d’ouverture"
+  },
+  "questions": {
+    "displayedName": {
+      "question": "Nom de l‘entreprise à apparaitre sur le site",
+      "contextual": "Quand on parle de branding, la continuité est très importante. Par exemple, si votre compagnie est une société à responsabilité limitée, épelez-vous votre nom Ltée. (avec un point), Ltée (sans le point), LTÉE (tout en majuscules), ou Limitée (en toutes lettres)?"
+    },
+    "primaryContact": {
+      "question": "Personne à contacter en priorité par notre équipe de site Web",
+      "contextual": "Posez-vous la question suivante : qui est la personne la plus compétente pour parler des spécificités de votre entreprise?"
+    },
+    "displayedInfo": "Coordonnées à apparaitre sur le site",
+    "mainPhone": "Numéro de téléphone principal",
+    "otherPhone": "Autre (s) numéro (s) de téléphone",
+    "email": "Courriel",
+    "mainAddress": "Adresse principale",
+    "otherAddress": "Autre (s) adresse (s)",
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche",
+    "otherInfo": "Y-a-t-il autre chose que vous désirez inclure dans vos coordonnées?"
+  },
+  "answers": {
+    "displayedInfo": [
+      {
+        "handle": "phoneDisplay",
+        "label": "Téléphone"
+      },
+      {
+        "handle": "emailDisplay",
+        "label": "Courriel"
+      },
+      {
+        "handle": "addressDisplay",
+        "label": "Adresse"
+      }
+    ]
+  }
+}

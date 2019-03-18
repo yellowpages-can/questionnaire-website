@@ -1,0 +1,34 @@
+{
+  "handle": "misc",
+  "tabNav": [
+    {
+      "handle": "businessDetails",
+      "label": "Données sur l’entreprise"
+    },
+    {
+      "handle": "productsServices",
+      "label": "Produits et services"
+    },
+    {
+      "handle": "existingPresence",
+      "label": "Présence en ligne"
+    },
+    {
+      "handle": "yourAudience",
+      "label": "Votre audience"
+    },
+    {
+      "handle": "finishQuestionnaire",
+      "label": "Pour terminer"
+    }
+  ],
+  "buttonNav": {
+    "next": "Suivant",
+    "previous": "Précédent"
+  },
+  "errors": {
+    "required": "Veuillez remplir ce champ.",
+    "submitFailure": "Désolé, le questionnaire n’a pas pu être envoyé."
+  },
+  "checkAll": "Cocher tout"
+}

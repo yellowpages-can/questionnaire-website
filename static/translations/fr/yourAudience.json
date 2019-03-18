@@ -1,0 +1,53 @@
+{
+  "handle": "yourAudience",
+  "headings": {
+    "main": "Votre audience",
+    "sub": "Vos objectifs",
+    "mainIntro": "Parlons un peu des personnes que vous souhaitez attirer sur votre site Web et du type d’information que vous désirez partager.",
+    "theVisuals": "Examples du design",
+    "theVisualsLink": "Explorez le portfolio des sites Web des PJ",
+    "theVisualsIntro": "Il est important de penser à l’image que vous voulez transmettre à travers votre nouveau site Web. {link} et sélectionnez les trois sites que vous préférez visuellement. Entrez leur référence (p. ex. WEB002) dans les champs ci-dessous. N’hésitez pas à nous envoyer également les addresses URL de sites que vous aimez que vous auriez trouvé par vous-mêmes.",
+    "demographic": "Information démographique"
+  },
+  "questions": {
+    "example1": "Site Web #1",
+    "example2": "Site Web #2",
+    "example3": "Site Web #3",
+    "targetDemo": {
+      "question": "Votre cible démographique",
+      "contextual": "Quelle est votre cible démographique? Pensez aux clients que vous avez servis par le passé. Selon que vous vouliez miser sur les B2C (entreprise-consommateur) ou les B2B (interentreprises), vous devez concentrer vos efforts sur votre cible."
+    },
+    "firstThing": {
+      "question": "Première impression",
+      "contextual": "Quelle est la première chose que vous voulez que vos client potentiels voient sur votre site? Il est toujours important de donner le ton juste. Vous n’avez qu’une seule chance de faire une bonne première impression."
+    },
+    "suppliedContent": {
+      "question": "Images/Contenu",
+      "contextual": "Pour résumer, personne ne comprend ce que vous faites mieux que vous. Votre équipe Web attitrée fera de son mieux pour créer pour vous du contenu qui reflète votre entreprise; cependant, plus le contenu et les images sont spécifiques et pertinentes par rapport à ce que vous faites, mieux c’est. Allez-vous nous envoyer de la documentation, des images, des logos? Cochez tout ce qui s’applique."
+    },
+    "stockImagesSubjects": {
+      "question": "Quel genre de photos de banque d’images souhaitez-vous voir?",
+      "contextual": "Si vous ne pouvez obtenir des photos de bonne qualité de votre entreprise, PJ peut vous fournir des images génériques de haute qualité, provenant de la banque d’images avec laquelle nous sous-traitons. Dites-nous simplement le genre d’images que vous souhaitez voir sur votre site, et nous trouverons la solution adéquate (p. ex. une famille au beau sourire pour un site de dentiste, des pièces détachées de moteur pour un garage, etc.)"
+    }
+  },
+  "answers": {
+    "suppliedContent": [
+      {
+        "handle": "documents",
+        "label": "Documents"
+      },
+      {
+        "handle": "ownPhotos",
+        "label": "Mes propres photos"
+      },
+      {
+        "handle": "stockImages",
+        "label": "Images que j’ai achetées sur une banque d’images"
+      },
+      {
+        "handle": "logo",
+        "label": "Logo de l’entreprise"
+      }
+    ]
+  }
+}

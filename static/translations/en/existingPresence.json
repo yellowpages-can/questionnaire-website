@@ -1,0 +1,61 @@
+{
+  "handle": "existingPresence",
+  "headings": {
+    "main": "Existing Online Presence",
+    "sub": "Social Networks",
+    "mainIntro": "Let us know which online platforms your business is currently using.",
+    "existingOnline": "Existing Online Presence",
+    "currentWebsite": "Current Website",
+    "socialMedia": "Social Media",
+    "socialMediaIntro": "If possible, please provide URLs"
+  },
+  "questions": {
+    "presenceTypes": "What online platforms are you already on?",
+    "domainName": {
+      "question": "What is the domain name?",
+      "contextual": "For example, in the URL https://business.yellowpages.ca/home/ the domain name would be yellowpages.ca"
+    },
+    "domainNameContinue": {
+      "question": "Would you like to continue using this domain?",
+      "contextual": "If you would like us to manage this domain, please have your login credentials to the domain registrar ready for the consultation. We will also ask if you have any email addresses under this domain and how many there are so we can understand your email needs."
+    },
+    "upToDateInfo": {
+      "question": "Is the information on your website up to date?",
+      "contextual": "Are you satisfied with the information that is currently available for your customers? We can revise and update as needed."
+    },
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "other1": "Other",
+    "other2": "Other",
+    "other3": "Other"
+  },
+  "answers": {
+    "presenceTypes": [
+      {
+        "handle": "currentWebsitePresence",
+        "label": "Current Website"
+      },
+      {
+        "handle": "facebookPresence",
+        "label": "Facebook"
+      },
+      {
+        "handle": "instagramPresence",
+        "label": "Instagram"
+      },
+      {
+        "handle": "twitterPresence",
+        "label": "Twitter"
+      },
+      {
+        "handle": "otherPresence",
+        "label": "Other"
+      }
+    ],
+    "domainNameContinue": {
+        "domainContinueYes": "Yes I would",
+        "domainContinueNo": "No I wouldn't"
+    }
+  }
+}

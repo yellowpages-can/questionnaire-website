@@ -1,0 +1,35 @@
+{
+  "handle": "misc",
+  "tabNav": [
+    {
+      "handle": "businessDetails",
+      "label": "Business Details"
+    },
+    {
+      "handle": "productsServices",
+      "label": "Products and Services"
+    },
+    {
+      "handle": "existingPresence",
+      "label": "Existing Presence"
+    },
+    {
+      "handle": "yourAudience",
+      "label": "Your Audience"
+    },
+    {
+      "handle": "finishQuestionnaire",
+      "label": "Finish Questionnaire"
+    }
+  ],
+  "buttonNav": {
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "errors": {
+    "required": "Please fill in this field.",
+    "submitFailure": "Sorry, the questionnaire could not be submitted."
+  },
+  "checkAll": "Check all",
+  "copyToAll": "Copy to all"
+}

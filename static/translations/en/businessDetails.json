@@ -1,0 +1,51 @@
+{
+  "handle": "businessDetails",
+  "headings": {
+    "main": "Business Details",
+    "sub": "Advertiser Profile",
+    "mainIntro": "Congratulations on your new website product! The first step in our production process is to learn a little bit more about your business and its goals. This information will help our web team strategize a plan before the next scheduled phone consultation. Your responses here will help us strengthen your online presence.",
+    "businessInfo": "Business Info",
+    "businessInfoIntro": "Let's start with some of the basic business details.",
+    "hours": "Hours of Operation"
+  },
+  "questions": {
+    "displayedName": {
+      "question": "Business name to be displayed on site",
+      "contextual": "For example, if you represent a private limited company, do you spell your name Ltd. (with a period), Ltd (without the period), LTD (all caps), or Limited (spelled out)?"
+    },
+    "primaryContact": {
+      "question": "Primary point of contact for our website development team",
+      "contextual": "Ask yourself, who is best suited to speak about the particulars of the business for the duration of the process?"
+    },
+    "displayedInfo": "Contact information to be displayed on site",
+    "mainPhone": "Main phone number",
+    "otherPhone": "Additional phone numbers",
+    "email": "Email",
+    "mainAddress": "Main business address",
+    "otherAddress": "Additional addresses",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "otherInfo": "Are there any other notes you would like to provide regarding your business information?"
+  },
+  "answers": {
+    "displayedInfo": [
+      {
+        "handle": "phoneDisplay",
+        "label": "Phone"
+      },
+      {
+        "handle": "emailDisplay",
+        "label": "Email"
+      },
+      {
+        "handle": "addressDisplay",
+        "label": "Address"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "handle": "finishQuestionnaire",
+  "headings": {
+    "main": "Pour terminer",
+    "sub": "En conclusion",
+    "mainIntro": "Vos connaissances et votre avis nous permettent de faire un meilleur travail. Ensemble nous pouvons créer la vitrine idéale pour votre entreprise! Nous apprécions votre contribution. N’hésitez pas à verifier vos réponses et à apporter tout changement qui vous semble nécessaire. Une fois que vous aurez terminé, cliquez le bouton Envoyer le questionnaire. Ce formulaire sera ajouté à votre dossier en prévision de votre consultation téléphonique.",
+    "thankYou": "Merci",
+    "leaveBehind": "Si vous souhaitez obtenir plus de conseils pratiques sur le processus de construction d’un site Web avant votre consultation téléphonique, veuillez consulter le document suivant des PJ. Il contient des tonnes d’informations pratiques, que ce soit sur les éléments visuels, la rédaction du texte et bien plus encore.",
+    "portfolio": "Consultez le portfolio des PJ en ligne. Ne vous préoccupez pas du type d’entreprise présentée, concentrez-vous sur les éléments visuels que vous aimez le plus. Chaque site est numéroté (p. ex. WEB002) pour référence lors de la discussion avec votre représentant PJ.",
+    "yp4b": "En tant que client des PJ, vous avez un accés en ligne complet pour consulter les analyses Internet, faire des changements, payer vos factures et en apprendre plus sur la gamme des produits et services que nous offrons. Restez connecté et profitez au mieux de votre achat grâce à ces ressources utiles."
+  },
+  "buttons": {
+    "complete": "Envoyer le questionnaire",
+    "leaveBehind": "Bienvenu sur votre site",
+    "portfolio": "Portfolio de sites Web PJ",
+    "yp4b": "YP4 Centre d’affaires"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "handle": "finishQuestionnaire",
+  "headings": {
+    "main": "Complete Questionnaire",
+    "sub": "Finishing Up",
+    "mainIntro": "Your insights and opinions help us do a better job. Together we can create the ideal showcase for your business! We appreciate your input. Feel free to review your answers and make any necessary changes. Once complete, click the \"Complete Questionionnaire\" button. This form will be added to your file in preparation of your phone consultation.",
+    "thankYou": "Thank You",
+    "leaveBehind": "If you’re looking for more helpful hints on the website design process prior to your next consultation, please review the following YP document. It contains practical information on everything from the visual components to the written copy and more.",
+    "portfolio": "Take a look at YP’s online portfolio. Don’t worry about the type of business being featured, just focus on the visual design that appeals to you the most. Each website is numbered (e.g., WEB002) for reference when speaking with your YP representative.",
+    "yp4b": "As a YP customer, you have full online access to view your website’s analytics, make updates, pay bills and learn more about the range of products and services we provide. Stay connected and make the most of your purchase with this useful resource."
+  },
+  "buttons": {
+    "complete": "Complete Questionnaire",
+    "leaveBehind": "Welcome to Your Website",
+    "portfolio": "YP Website Portfolio",
+    "yp4b": "YP4 Business Centre"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "handle": "existingPresence",
+  "headings": {
+    "main": "Présence en ligne",
+    "sub": "Réseaux sociaux",
+    "mainIntro": "Quelles plateformes utilisez-vous actuellement en ligne pour votre entreprise? Veuillez cochez tout ce qui s’applique.",
+    "existingOnline": "Votre présence en ligne actuellement",
+    "currentWebsite": "Site Web actuel",
+    "socialMedia": "Médias sociaux",
+    "socialMediaIntro": "Veuillez si possible nous fournir les URL"
+  },
+  "questions": {
+    "presenceTypes": "Sur quelles plateformes êtes-vous déjà présent?",
+    "domainName": {
+      "question": "Quel est le nom de domaine?",
+      "contextual": "Par exemple, dans le URL https://business.yellowpages.ca/home/ le nom de domaine est yellowpages.ca"
+    },
+    "domainNameContinue": {
+      "question": "Souhaitez-vous garder ce domaine?",
+      "contextual": "Si vous souhaitez que nous prenions en charge la gestion de ce domaine, veuillez, au moment de la consultation, , avoir sous la main vos identifiants de connexion donnant accès au registraire de nom de domaine. Nous vous demanderons également si vous avez des courriels sur ce domaine et combien il y en a pour nous permettre de comprendre vos besoins en courriel."
+    },
+    "upToDateInfo": {
+      "question": "Le contenu de votre site est-il à jour?",
+      "contextual": "Êtes-vous satisfait du contenu actuellement à la disposition de vos clients? Nous pouvons le revoir et le mettre à jour en fonction de vos besoins."
+    },
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "other1": "Autre",
+    "other2": "Autre",
+    "other3": "Autre"
+  },
+  "answers": {
+    "presenceTypes": [
+      {
+        "handle": "currentWebsitePresence",
+        "label": "Site Web actuel"
+      },
+      {
+        "handle": "facebookPresence",
+        "label": "Facebook"
+      },
+      {
+        "handle": "instagramPresence",
+        "label": "Instagram"
+      },
+      {
+        "handle": "twitterPresence",
+        "label": "Twitter"
+      },
+      {
+        "handle": "otherPresence",
+        "label": "Autre"
+      }
+    ],
+    "domainNameContinue": {
+        "domainContinueYes": "Oui",
+        "domainContinueNo": "Non"
+    }
+  }
+}
