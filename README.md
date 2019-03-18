@@ -34,8 +34,6 @@ Central store: `/src/store/`
 
 CSS and images: `/static/` and `/static/uploads/`
 
-Mail endpoint: https://ehost-services229.com
-
 
 ## Processes
 
