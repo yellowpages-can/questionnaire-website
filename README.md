@@ -1,4 +1,4 @@
-# Yellow Pages Pre-Consultation Questionnaire
+# Yellow Pages Website Questionnaire
 
 ## Build Setup
 
@@ -40,8 +40,8 @@ Mail endpoint: https://ehost-services229.com
 ## Processes
 
 ### Adding a new question
-1. Update field store with new field in correct section object
-2. Update error store if question is required
+1. Update `/store/modules/field` with new field in correct section object
+2. Update `/store/modules/error` if question is required
 2. Update JSON file of that section with question string(s) and answers array if needed (both languages)
 3. Update template of that section's component
 
